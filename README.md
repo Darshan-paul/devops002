@@ -29,3 +29,14 @@ go back to git hub , goto settings >pages>main>doc'c>save>refresh
 driver.get (url paste)
 run
 
+mvn clean package 
+java -jar target/ click tab 
+mvn clean 
+
+mvn site
+
+copy the <sidtribut>
+after endof </build>
+paste it 
+
+mvn deploy
