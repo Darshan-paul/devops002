@@ -22,3 +22,10 @@ git status
 
 go back to git hub , goto settings >pages>main>doc'c>save>refresh
 
+
+>src>test>java directory>new>package>org.test
+>org.test>new>javaclass>WebPageTest and paste code
+
+driver.get (url paste)
+run
+
